@@ -1,0 +1,1 @@
+Everything in this directory is just Animal Crossing music. Dump it yourself - **I do not support piracy and will not provide any support to you if you have pirated these games.**

@@ -1,0 +1,4 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/ac-music-extension-j/ac-music-extension-j.github.io.git
+	branch = main

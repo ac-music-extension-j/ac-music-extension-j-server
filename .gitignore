@@ -1,0 +1,8 @@
+node_modules/**
+
+static/**/*pm.ogg
+static/**/*am.ogg
+static/kk/**/*.ogg
+
+.DS_Store
+**/.DS_Store
